@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 32726eef68207514bbede9c6509379b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4184586705055241392
+    second: Checkpoint (Flag Out) (64x64)_0
+  - first:
+      213: -8500414901909799154
+    second: Checkpoint (Flag Out) (64x64)_1
+  - first:
+      213: 6600226083578749612
+    second: Checkpoint (Flag Out) (64x64)_2
+  - first:
+      213: -1756668925505998823
+    second: Checkpoint (Flag Out) (64x64)_3
+  - first:
+      213: -6967806255545003447
+    second: Checkpoint (Flag Out) (64x64)_4
+  - first:
+      213: 7127308139407018228
+    second: Checkpoint (Flag Out) (64x64)_5
+  - first:
+      213: 7200103426585487352
+    second: Checkpoint (Flag Out) (64x64)_6
+  - first:
+      213: -541522737943073818
+    second: Checkpoint (Flag Out) (64x64)_7
+  - first:
+      213: -6807852688622114252
+    second: Checkpoint (Flag Out) (64x64)_8
+  - first:
+      213: 6265099083614238658
+    second: Checkpoint (Flag Out) (64x64)_9
+  - first:
+      213: 5394087461009959248
+    second: Checkpoint (Flag Out) (64x64)_10
+  - first:
+      213: -5774344071365144885
+    second: Checkpoint (Flag Out) (64x64)_11
+  - first:
+      213: -3028704889039134381
+    second: Checkpoint (Flag Out) (64x64)_12
+  - first:
+      213: 2155129991389349994
+    second: Checkpoint (Flag Out) (64x64)_13
+  - first:
+      213: -776465599013193395
+    second: Checkpoint (Flag Out) (64x64)_14
+  - first:
+      213: -4370090337520481786
+    second: Checkpoint (Flag Out) (64x64)_15
+  - first:
+      213: -1711207211420887195
+    second: Checkpoint (Flag Out) (64x64)_16
+  - first:
+      213: -5278763548615814542
+    second: Checkpoint (Flag Out) (64x64)_17
+  - first:
+      213: -8342746687626132780
+    second: Checkpoint (Flag Out) (64x64)_18
+  - first:
+      213: -8069447969666600582
+    second: Checkpoint (Flag Out) (64x64)_19
+  - first:
+      213: -4297091758800071936
+    second: Checkpoint (Flag Out) (64x64)_20
+  - first:
+      213: -2206044501344538863
+    second: Checkpoint (Flag Out) (64x64)_21
+  - first:
+      213: -991047635057653830
+    second: Checkpoint (Flag Out) (64x64)_22
+  - first:
+      213: -5557025883363775598
+    second: Checkpoint (Flag Out) (64x64)_23
+  - first:
+      213: 5095064189951559428
+    second: Checkpoint (Flag Out) (64x64)_24
+  - first:
+      213: 6851063822677676398
+    second: Checkpoint (Flag Out) (64x64)_25
+  - first:
+      213: -3582708666355114083
+    second: Checkpoint (Flag Out) (64x64)_0
+  - first:
+      213: -6786976758097926013
+    second: Checkpoint (Flag Out) (64x64)_1
+  - first:
+      213: -4278537858324974411
+    second: Checkpoint (Flag Out) (64x64)_2
+  - first:
+      213: 8170684607559162532
+    second: Checkpoint (Flag Out) (64x64)_3
+  - first:
+      213: 7291494049706089666
+    second: Checkpoint (Flag Out) (64x64)_4
+  - first:
+      213: 1000371384929475169
+    second: Checkpoint (Flag Out) (64x64)_5
+  - first:
+      213: 1205929626004689443
+    second: Checkpoint (Flag Out) (64x64)_6
+  - first:
+      213: 3098746850603791403
+    second: Checkpoint (Flag Out) (64x64)_7
+  - first:
+      213: -1679241292596971461
+    second: Checkpoint (Flag Out) (64x64)_8
+  - first:
+      213: 3693172607550675864
+    second: Checkpoint (Flag Out) (64x64)_9
+  - first:
+      213: 3246319284614307184
+    second: Checkpoint (Flag Out) (64x64)_10
+  - first:
+      213: -5939260983747300221
+    second: Checkpoint (Flag Out) (64x64)_11
+  - first:
+      213: 5040558657168652790
+    second: Checkpoint (Flag Out) (64x64)_12
+  - first:
+      213: 6470836464734721187
+    second: Checkpoint (Flag Out) (64x64)_13
+  - first:
+      213: -5839117016096598318
+    second: Checkpoint (Flag Out) (64x64)_14
+  - first:
+      213: -8437473318205526752
+    second: Checkpoint (Flag Out) (64x64)_15
+  - first:
+      213: -4591742027279420674
+    second: Checkpoint (Flag Out) (64x64)_16
+  - first:
+      213: -5830463235820900754
+    second: Checkpoint (Flag Out) (64x64)_17
+  - first:
+      213: 9197399156756169732
+    second: Checkpoint (Flag Out) (64x64)_18
+  - first:
+      213: -5079399210663904953
+    second: Checkpoint (Flag Out) (64x64)_19
+  - first:
+      213: -6691814301164244417
+    second: Checkpoint (Flag Out) (64x64)_20
+  - first:
+      213: -1546023373692984370
+    second: Checkpoint (Flag Out) (64x64)_21
+  - first:
+      213: -2783131360816036882
+    second: Checkpoint (Flag Out) (64x64)_22
+  - first:
+      213: -8478161998606626284
+    second: Checkpoint (Flag Out) (64x64)_23
+  - first:
+      213: 9016200473545636038
+    second: Checkpoint (Flag Out) (64x64)_24
+  - first:
+      213: 5444308766036715605
+    second: Checkpoint (Flag Out) (64x64)_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f90303379a74ec0800000000000000
+      internalID: -3582708666355114083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388adb2f890dfc1a0800000000000000
+      internalID: -6786976758097926013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ba7c8c749f94c0800000000000000
+      internalID: -4278537858324974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad0554c5a146170800000000000000
+      internalID: 8170684607559162532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1b9ac437903560800000000000000
+      internalID: 7291494049706089666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16adf22797802ed00800000000000000
+      internalID: 1000371384929475169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32211260b925cb010800000000000000
+      internalID: 1205929626004689443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24791fb7d5f00b20800000000000000
+      internalID: 3098746850603791403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f69ef0f222b8e0800000000000000
+      internalID: -1679241292596971461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd2475be8c04330800000000000000
+      internalID: 3693172607550675864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d9fea803e3d0d20800000000000000
+      internalID: 3246319284614307184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 9
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b7635a91839da0800000000000000
+      internalID: -5939260983747300221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_12
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9be068469a3f540800000000000000
+      internalID: 5040558657168652790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_13
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a458201b770dc950800000000000000
+      internalID: 6470836464734721187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_14
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d69f95c20a47fea0800000000000000
+      internalID: -5839117016096598318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_15
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02de58288b218ea80800000000000000
+      internalID: -8437473318205526752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_16
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 0
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef237cb44fad640c0800000000000000
+      internalID: -4591742027279420674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_17
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eabe00498061fa0800000000000000
+      internalID: -5830463235820900754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_18
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 0
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404cdeb9dc9b3af70800000000000000
+      internalID: 9197399156756169732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_19
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497af764595289b0800000000000000
+      internalID: -5079399210663904953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_20
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 0
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f93c0956e123a0800000000000000
+      internalID: -6691814301164244417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_21
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 0
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3249cceeb6b8ae0800000000000000
+      internalID: -1546023373692984370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_22
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee38f43e5c45069d0800000000000000
+      internalID: -2783131360816036882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_23
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41216dcd494875a80800000000000000
+      internalID: -8478161998606626284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_24
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c875619f8aff1d70800000000000000
+      internalID: 9016200473545636038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_25
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e92f3af11e8b40800000000000000
+      internalID: 5444308766036715605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

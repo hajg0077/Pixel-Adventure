@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Platform
+  - PlayerBullets
+  - bosszone
+  - controlreset
+  - movepoint
+  - Trap
+  - edge
+  - EnemyAttack
+  - Item
+  - EnemyBullet
+  - Elevator
+  - PDagger
+  - Lava
+  - Fire
+  - Gate
+  - Spike
+  - point
+  - Laser
+  - Thunder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Enemy
+  - Player
+  - PlayerDamaged
+  - BackGround
+  - Bossszone
+  - Item
+  - OptionUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: StateUI
+    uniqueID: 3081731323
+    locked: 0
+  - name: OptionUI
+    uniqueID: 864267683
+    locked: 0

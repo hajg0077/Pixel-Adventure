@@ -1,0 +1,2 @@
+D:\Unityfile\Pixel Adventure\Pixel Adventure\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unityfile\Pixel Adventure\Pixel Adventure\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
